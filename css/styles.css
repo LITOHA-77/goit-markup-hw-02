@@ -85,6 +85,9 @@ body {
 .link-contacts {
   color: var(--text-color);
 }
+.address-list {
+  font-style: normal;
+}
 .address-contacts:hover,
 .address-contacts:focus {
   color: var(--accent-color);
